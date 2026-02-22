@@ -1,15 +1,15 @@
-# 💫 Hi 👋, I'm Eren
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Bluee
+**A passionate Web developer || Full stack developer
 
-Email Me 👉 ✉️ **eren.techfest@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **bhavitraj@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** devXbharat
-- 🌱 **I’m currently learning:** AI Agents and automation
-- 👯 **I’m looking to collaborate on:** AI Agents
-- 🤔 **I’m looking for help with:** Zuno
+- 🔭 **I’m currently working on:** Cool projects
+- 🌱 **I’m currently learning:** Cyber security
+- 👯 **I’m looking to collaborate on:** Web development || automation softwares
+- 🤔 **I’m looking for help with:** Internships and paid projects
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** eren.techfest@gmail.com
-- 😄 **Pronouns:** Manjeet Bhaiya
+- 📫 **How to reach me:** bhavitraj@gmail.com
+- 😄 **Pronouns:** Bhavit 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
