@@ -39,6 +39,9 @@ Email Me 👉 ✉️ **bhavitraj@gmail.com** For Collaboration/Project or Anythi
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer](https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Lenis](https://img.shields.io/badge/Lenis-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive%20Scroll-%23000000.svg?style=for-the-badge&logo=locomotive&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
