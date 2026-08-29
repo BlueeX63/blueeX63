@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **bhavitraj@gmail.com** For Collaboration/Project or Anythi
 - 🤔 **I’m looking for help with:** Internships and paid projects
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** bhavitraj@gmail.com
-- 😄 **Pronouns:** Bhavit 
+- 😄 **Namw:** Bhavit 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
